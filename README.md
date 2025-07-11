@@ -56,7 +56,7 @@ A modern, responsive AI SaaS website and dashboard built with Bootstrap 5, featu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/keshavsoft-ai-saas-dashboard.git
+   git clone https://github.com/gowthamnagarajvb/keshavsoft-ai-saas-dashboard.git
    cd keshavsoft-ai-saas-dashboard
    ```
 
